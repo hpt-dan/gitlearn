@@ -16,5 +16,7 @@ public class Test01 {
         System.out.println("dev分支不会改变");
 
         System.out.println("测试commit");
+
+        System.out.println("合并后代码还一致吗？？");
     }
 }
